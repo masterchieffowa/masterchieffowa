@@ -10,7 +10,7 @@
   
   *3 years of experience in healthcare and government data systems*
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=masterchieffowa&color=14B8A6&style=for-the-badge)
+  <!-- ![Profile Views](https://komarev.com/ghpvc/?username=masterchieffowa&color=14B8A6&style=for-the-badge) -->
   
 </div>
 
@@ -83,7 +83,7 @@ engineering_practices:
 ```
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -94,7 +94,7 @@ engineering_practices:
 
 </div>
 
----
+--- -->
 
 ## 🔥 GitHub Streak (Kept)
 
@@ -111,7 +111,7 @@ engineering_practices:
 [![Mahmoud's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masterchieffowa&theme=tokyo-night&hide_border=true)](https://github.com/masterchieffowa)
 
 ---
-
+<!-- 
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -120,7 +120,7 @@ engineering_practices:
 
 </div>
 
----
+--- -->
 
 ## 💡 Random Dev Quote
 
