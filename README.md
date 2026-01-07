@@ -6,7 +6,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmmoudadel607@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.vercel.app)
   
-  **Junior Data Engineer | Building Data Pipelines & Analytics Solutions**
+  **Data Engineer | Building Data Pipelines & Analytics Solutions**
   
   *3 years of experience in healthcare and government data systems*
 
@@ -84,6 +84,18 @@ engineering_practices:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masterchieffowa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masterchieffowa&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 🔥 GitHub Streak (Kept)
 
 <div align="center">
@@ -97,6 +109,16 @@ engineering_practices:
 ## 📈 Contribution Graph
 
 [![Mahmoud's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masterchieffowa&theme=tokyo-night&hide_border=true)](https://github.com/masterchieffowa)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=masterchieffowa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
 
 ---
 
@@ -118,7 +140,6 @@ engineering_practices:
 |----------|------|
 | 💼 LinkedIn | [Mahmoud Adel](https://www.linkedin.com/in/mahmoud-adel-b0797422b/) |
 | 📧 Email | mahmmoudadel607@gmail.com |
-| 📱 Phone | +20 100 982 5340 |
 | 🌐 Portfolio | [View Portfolio](https://your-portfolio-url.vercel.app) |
 
 </div>
